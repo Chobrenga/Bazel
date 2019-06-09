@@ -1,8 +1,9 @@
 #pragma once
 
-// For use by Hazel Apps only
+// This file for use by Hazel client Apps, non-internal
 
-#include <stdio.h>
+
+#include "hzpch.h"
 #include "Hazel/Application.h"
 #include "Hazel/Log.h"
 
