@@ -13,6 +13,8 @@
 #include <unordered_set>
 #include <stdio.h>
 
+#include "Hazel/Log.h"
+
 #ifdef HZ_PLATFORM_WINDOWS
 	#include <Windows.h>
 #endif
